@@ -64,4 +64,4 @@ def query_by_id(student_id):
         student_id=student_id).first()
     return student
 
-
+  
